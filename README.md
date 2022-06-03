@@ -12,7 +12,7 @@
 1. `cd server`
 2. `npm install`
 3. `npm start`
-5. Running on [`localhost:3001/api`](http://localhost:3001/api)
+4. Running on [`localhost:3001/api`](http://localhost:3001/api)
 
 ### testing
-- Run `npm test`/`npm test:watch` in `server`
+- Run `npm test`/`npm run test:watch` in `server`
